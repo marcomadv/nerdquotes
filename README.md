@@ -978,6 +978,12 @@ _La Principita Martina Fierro_
 
 -------
 
+>"La fuerza de tus convicciones determina tu éxito, no el número de tus seguidores"
+
+*Remus Lupin, Harry Potter*
+
+-------
+
 >127.0.0.1, sweet 127.0.0.1
 
 *Any developer*
